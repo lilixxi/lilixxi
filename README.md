@@ -13,7 +13,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilixxi)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilixxi&hide=contribs,prs&show_icons=true&theme=테마)
+[![GitHub Streak](https://streak-stats.demolab.com?user=leegahee&theme=dark&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) 
 
-<a href="https://www.instagram.com/lijiaxi21/"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
+👉 <a href="https://www.instagram.com/lijiaxi21/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  
 
+[![Solved.ac
+프로필](https://www.acmicpc.net/user/lijiaxi2319)](https://solved.ac/{handle})
+
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
