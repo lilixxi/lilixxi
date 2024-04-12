@@ -8,7 +8,8 @@
 |언어|정도|
 |--|--|
 |파이썬|중|
-|SQL|중|
+|DBMS(MYSQL)|중|
+|DBMS(ORACLE)|중|
 |R|중|
 |Tableau|중|
 
