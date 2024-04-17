@@ -18,7 +18,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leegahee&theme=dark&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) 
 
-
+![lilixxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilixxi&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijiaxi2319)](https://solved.ac/lijiaxi2319/)
 
