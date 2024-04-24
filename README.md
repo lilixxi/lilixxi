@@ -8,6 +8,8 @@
 |언어|정도|
 |--|--|
 |파이썬|중|
+|파이썬(Numpy)|중|
+|파이썬(Pandas)|중|
 |DBMS(MYSQL)|중|
 |DBMS(ORACLE)|중|
 |R|중|
