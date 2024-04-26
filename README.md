@@ -7,13 +7,13 @@
 
 |언어|정도|
 |--|--|
-|파이썬|중|
-|파이썬(Numpy)|중|
-|파이썬(Pandas)|중|
-|DBMS(MYSQL)|중|
-|DBMS(ORACLE)|중|
-|R|중|
-|Tableau|중|
+|파이썬||
+|파이썬(Numpy)||
+|파이썬(Pandas)||
+|DBMS(MYSQL)||
+|DBMS(ORACLE)||
+|R||
+|Tableau||
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilixxi)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilixxi)](https://github.com/anuraghazra/github-readme-stats)
