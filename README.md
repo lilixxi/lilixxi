@@ -14,6 +14,7 @@
 |DBMS(ORACLE)||
 |R||
 |Tableau||
+|Streamlit||
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilixxi)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilixxi)](https://github.com/anuraghazra/github-readme-stats)
